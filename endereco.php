@@ -95,7 +95,6 @@
         <input name="uf" type="text" id="uf" size="2" /></label><br><br>
         <label>IBGE:
         <input name="ibge" type="text" id="ibge" size="8" /></label><br><br>
-      </form>
         
         <input type="submit" value="Enviar">
       </form>
